@@ -66,8 +66,8 @@ Pour jouer contre des robots, lors de l'entrée des pseudos des joueurs vous dev
 <br/><br/>
 
 ## Membres du projet
-- Sylvain Capblancq
-- Paul Le Blanc
+- [Sylvain Capblancq](https://github.com/Slyfti)
+- [Paul Le Blanc](https://github.com/P33TheWhite)
 - Gabriel Pretou
 <br/><br/>
 ## Licence
