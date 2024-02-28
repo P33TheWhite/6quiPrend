@@ -48,7 +48,7 @@ Tous les terminaux n'affichent pas toujours les caractères de la même façon, 
 
 ```bash
 git clone https://github.com/P33TheWhite/6quiPrend.git
-cd 6quiprend
+cd 6quiprend/
 make
 ./exe
 ```
