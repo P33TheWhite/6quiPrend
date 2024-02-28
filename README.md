@@ -47,7 +47,7 @@ Tous les terminaux n'affichent pas toujours les caractères de la même façon, 
 - Le gnome-terminal de Ubuntu
 
 ```bash
-git clone git@gitlab.etude.cy-tech.fr:e-scapblan/6quiprend.git
+git clone https://github.com/P33TheWhite/6quiPrend.git
 cd 6quiprend
 make
 ./exe
