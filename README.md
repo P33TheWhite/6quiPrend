@@ -1,4 +1,4 @@
-# Le 6 qui prend par Gapaulvain Games
+# Le 6 qui prend
 Programme en C permettant de jouer au 6 qui prend dans le terminal.
 
 
@@ -69,7 +69,4 @@ Pour jouer contre des robots, lors de l'entrée des pseudos des joueurs vous dev
 - [Sylvain Capblancq](https://github.com/Slyfti)
 - [Paul Le Blanc](https://github.com/P33TheWhite)
 - Gabriel Pretou
-<br/><br/>
-## Licence
-Ce projet est sous la licence Gapaulvain Games ©
 <br/><br/>
